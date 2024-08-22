@@ -1,5 +1,7 @@
 This is a simple form for contact page on php to carry form variable from the label cells and send to the email in the thankyou folder where it will be used to upload the form message to email assigned in the index.php inside the thankyou folder
-xplanation:
+that captcha image is the piccaptcha.jpg
+
+Explanation:
 CAPTCHA Section:
 
 I've added a new row for the CAPTCHA image (piccaptcha.jpg) and a text input where users can enter the CAPTCHA code.
